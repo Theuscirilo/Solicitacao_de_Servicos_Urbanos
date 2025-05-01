@@ -33,3 +33,9 @@ Este aplicativo web, desenvolvido com [Streamlit](https://streamlit.io/), permit
    ```bash
    git clone https://github.com/seu-usuario/fale-com-a-prefeitura.git
    cd fale-com-a-prefeitura
+2. **Instale as dependências:**:
+   ```bash
+   pip install -r requirements.txt
+2. **Execute o aplicativo:**:
+   ```bash
+   streamlit run app.py
