@@ -1,0 +1,6 @@
+
+EXECUTAR:
+PRIMEIRO:
+.venv\Scripts\Activate                                                                           HOST:http://localhost:8501/
+DEPOIS:
+streamlit run servicos_urbanos.py
